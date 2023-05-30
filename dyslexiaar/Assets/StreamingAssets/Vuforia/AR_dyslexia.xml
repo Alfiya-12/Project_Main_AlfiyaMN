@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PUMPKIN" size="10.000000 14.145162" />
+    <ImageTarget name="POTATO" size="10.000000 14.145162" />
+    <ImageTarget name="GARLIC" size="10.000000 14.145162" />
+    <ImageTarget name="CARROT" size="10.000000 14.145162" />
+    <ImageTarget name="CAPCICUM" size="10.000000 14.145162" />
+    <ImageTarget name="CABBAGE" size="10.000000 14.145162" />
+    <ImageTarget name="BROCOLI" size="10.000000 14.145162" />
+    <ImageTarget name="SPHERE" size="10.000000 14.145162" />
+    <ImageTarget name="PYRAMID" size="10.000000 14.145162" />
+    <ImageTarget name="CYLINDER" size="10.000000 14.145162" />
+    <ImageTarget name="CUBE" size="10.000000 14.145162" />
+    <ImageTarget name="CONE" size="10.000000 14.145162" />
+    <ImageTarget name="WHITE_TIGER" size="10.000000 14.133064" />
+    <ImageTarget name="TIGER" size="10.000000 14.133064" />
+    <ImageTarget name="SQUIRREL" size="10.000000 13.782258" />
+    <ImageTarget name="SHEEP" size="10.000000 13.362904" />
+    <ImageTarget name="KANGAROO" size="10.000000 13.020162" />
+    <ImageTarget name="HORSE" size="10.000000 14.145162" />
+    <ImageTarget name="HEN" size="10.000000 13.895162" />
+    <ImageTarget name="ELEPHANT" size="10.000000 14.133064" />
+    <ImageTarget name="DEER" size="10.000000 14.133064" />
+    <ImageTarget name="CROCODILE" size="10.000000 14.133064" />
+    <ImageTarget name="CAMEL" size="10.000000 14.145162" />
+    <ImageTarget name="BULL" size="10.000000 12.629032" />
+    <ImageTarget name="Z" size="10.000000 14.145162" />
+    <ImageTarget name="Y" size="10.000000 14.145162" />
+    <ImageTarget name="X" size="10.000000 14.145162" />
+    <ImageTarget name="W" size="10.000000 14.145162" />
+    <ImageTarget name="V" size="10.000000 14.145162" />
+    <ImageTarget name="U" size="10.000000 14.145162" />
+    <ImageTarget name="T" size="10.000000 14.145162" />
+    <ImageTarget name="S" size="10.000000 14.145162" />
+    <ImageTarget name="R" size="10.000000 14.145162" />
+    <ImageTarget name="Q" size="10.000000 14.145162" />
+    <ImageTarget name="P" size="10.000000 14.145162" />
+    <ImageTarget name="O" size="10.000000 14.145162" />
+    <ImageTarget name="N" size="10.000000 14.145162" />
+    <ImageTarget name="M" size="10.000000 14.145162" />
+    <ImageTarget name="L" size="10.000000 14.145162" />
+    <ImageTarget name="K" size="10.000000 14.145162" />
+    <ImageTarget name="J" size="10.000000 14.145162" />
+    <ImageTarget name="I" size="10.000000 14.145162" />
+    <ImageTarget name="H" size="10.000000 14.145162" />
+    <ImageTarget name="G" size="10.000000 14.145162" />
+    <ImageTarget name="F" size="10.000000 14.145162" />
+    <ImageTarget name="E" size="10.000000 14.145162" />
+    <ImageTarget name="D" size="10.000000 14.145162" />
+    <ImageTarget name="C" size="10.000000 14.145162" />
+    <ImageTarget name="B" size="10.000000 14.145162" />
+    <ImageTarget name="A" size="10.000000 14.145162" />
+    <ImageTarget name="9" size="10.000000 14.150867" />
+    <ImageTarget name="8" size="10.000000 14.150867" />
+    <ImageTarget name="7" size="10.000000 14.150867" />
+    <ImageTarget name="6" size="10.000000 14.150867" />
+    <ImageTarget name="5" size="10.000000 14.150867" />
+    <ImageTarget name="4" size="10.000000 14.145162" />
+    <ImageTarget name="3" size="10.000000 14.145162" />
+    <ImageTarget name="2" size="10.000000 14.145162" />
+    <ImageTarget name="1" size="10.000000 14.145162" />
+    <ImageTarget name="0" size="10.000000 14.145162" />
+  </Tracking>
+</QCARConfig>
